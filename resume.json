@@ -1,0 +1,723 @@
+[
+  {
+    "touche": "échap",
+    "key": "Escape",
+    "code": "Escape",
+    "keyCode": 27,
+    "which": 27
+  },
+  {
+    "touche": "F1",
+    "key": "F1",
+    "code": "F1",
+    "keyCode": 112,
+    "which": 112
+  },
+  {
+    "touche": "F2",
+    "key": "F2",
+    "code": "F2",
+    "keyCode": 113,
+    "which": 113
+  },
+  {
+    "touche": "F3",
+    "key": "F3",
+    "code": "F3",
+    "keyCode": 114,
+    "which": 114
+  },
+  {
+    "touche": "F4",
+    "key": "F4",
+    "code": "F4",
+    "keyCode": 115,
+    "which": 115
+  },
+  {
+    "touche": "F5",
+    "key": "F5",
+    "code": "F5",
+    "keyCode": 116,
+    "which": 116
+  },
+  {
+    "touche": "F6",
+    "key": "F6",
+    "code": "F6",
+    "keyCode": 117,
+    "which": 117
+  },
+  {
+    "touche": "F7",
+    "key": "F7",
+    "code": "F7",
+    "keyCode": 118,
+    "which": 118
+  },
+  {
+    "touche": "F8",
+    "key": "F8",
+    "code": "F8",
+    "keyCode": 119,
+    "which": 119
+  },
+  {
+    "touche": "F9",
+    "key": "F9",
+    "code": "F9",
+    "keyCode": 120,
+    "which": 120
+  },
+  {
+    "touche": "F10",
+    "key": "F10",
+    "code": "F10",
+    "keyCode": 121,
+    "which": 121
+  },
+  {
+    "touche": "F11",
+    "key": "F11",
+    "code": "F11",
+    "keyCode": 122,
+    "which": 122
+  },
+  {
+    "touche": "F12",
+    "key": "F12",
+    "code": "F12",
+    "keyCode": 123,
+    "which": 123
+  },
+  {
+    "touche": "²",
+    "key": "²",
+    "code": "Backquote",
+    "keyCode": 222,
+    "which": 222
+  },
+  {
+    "touche": "&",
+    "key": "&",
+    "code": "Digit1",
+    "keyCode": 49,
+    "which": 49
+  },
+  {
+    "touche": "é",
+    "key": "é",
+    "code": "Digit2",
+    "keyCode": 50,
+    "which": 50
+  },
+  {
+    "touche": "\"",
+    "key": "\"",
+    "code": "Digit3",
+    "keyCode": 51,
+    "which": 51
+  },
+  {
+    "touche": "'",
+    "key": "'",
+    "code": "Digit4",
+    "keyCode": 52,
+    "which": 52
+  },
+  {
+    "touche": "(",
+    "key": "(",
+    "code": "Digit5",
+    "keyCode": 53,
+    "which": 53
+  },
+  {
+    "touche": "-",
+    "key": "-",
+    "code": "Digit6",
+    "keyCode": 54,
+    "which": 54
+  },
+  {
+    "touche": "è",
+    "key": "è",
+    "code": "Digit7",
+    "keyCode": 55,
+    "which": 55
+  },
+  {
+    "touche": "_",
+    "key": "_",
+    "code": "Digit8",
+    "keyCode": 56,
+    "which": 56
+  },
+  {
+    "touche": "ç",
+    "key": "ç",
+    "code": "Digit9",
+    "keyCode": 57,
+    "which": 57
+  },
+  {
+    "touche": "à",
+    "key": "à",
+    "code": "Digit0",
+    "keyCode": 48,
+    "which": 48
+  },
+  {
+    "touche": ")",
+    "key": ")",
+    "code": "Minus",
+    "keyCode": 219,
+    "which": 219
+  },
+  {
+    "touche": "=",
+    "key": "=",
+    "code": "Equal",
+    "keyCode": 187,
+    "which": 187
+  },
+  {
+    "touche": "Retour arr",
+    "key": "Backspace",
+    "code": "Backspace",
+    "keyCode": 8,
+    "which": 8
+  },
+  {
+    "touche": "tab",
+    "key": "Tab",
+    "code": "Tab",
+    "keyCode": 9,
+    "which": 9
+  },
+  {
+    "touche": "a",
+    "key": "a",
+    "code": "KeyQ",
+    "keyCode": 65,
+    "which": 65
+  },
+  {
+    "touche": "z",
+    "key": "z",
+    "code": "KeyW",
+    "keyCode": 90,
+    "which": 90
+  },
+  {
+    "touche": "e",
+    "key": "e",
+    "code": "KeyE",
+    "keyCode": 69,
+    "which": 69
+  },
+  {
+    "touche": "r",
+    "key": "r",
+    "code": "KeyR",
+    "keyCode": 82,
+    "which": 82
+  },
+  {
+    "touche": "t",
+    "key": "t",
+    "code": "KeyT",
+    "keyCode": 84,
+    "which": 84
+  },
+  {
+    "touche": "y",
+    "key": "y",
+    "code": "KeyY",
+    "keyCode": 89,
+    "which": 89
+  },
+  {
+    "touche": "u",
+    "key": "u",
+    "code": "KeyU",
+    "keyCode": 85,
+    "which": 85
+  },
+  {
+    "touche": "i",
+    "key": "i",
+    "code": "KeyI",
+    "keyCode": 73,
+    "which": 73
+  },
+  {
+    "touche": "o",
+    "key": "o",
+    "code": "KeyO",
+    "keyCode": 79,
+    "which": 79
+  },
+  {
+    "touche": "p",
+    "key": "p",
+    "code": "KeyP",
+    "keyCode": 80,
+    "which": 80
+  },
+  {
+    "touche": "^",
+    "key": "Dead",
+    "code": "BracketLeft",
+    "keyCode": 221,
+    "which": 221
+  },
+  {
+    "touche": "$",
+    "key": "$",
+    "code": "BracketRight",
+    "keyCode": 186,
+    "which": 186
+  },
+  {
+    "touche": "entrée",
+    "key": "Enter",
+    "code": "Enter",
+    "keyCode": 13,
+    "which": 13
+  },
+  {
+    "touche": "maj ver on",
+    "key": "CapsLock",
+    "code": "CapsLock",
+    "keyCode": 20,
+    "which": 20
+  },
+  {
+    "touche": "maj ver off",
+    "key": "CapsLock",
+    "code": "CapsLock",
+    "keyCode": 20,
+    "which": 20
+  },
+  {
+    "touche": "q",
+    "key": "q",
+    "code": "KeyA",
+    "keyCode": 81,
+    "which": 81
+  },
+  {
+    "touche": "s",
+    "key": "s",
+    "code": "KeyS",
+    "keyCode": 83,
+    "which": 83
+  },
+  {
+    "touche": "d",
+    "key": "d",
+    "code": "KeyD",
+    "keyCode": 68,
+    "which": 68
+  },
+  {
+    "touche": "f",
+    "key": "f",
+    "code": "KeyF",
+    "keyCode": 70,
+    "which": 70
+  },
+  {
+    "touche": "g",
+    "key": "g",
+    "code": "KeyG",
+    "keyCode": 71,
+    "which": 71
+  },
+  {
+    "touche": "h",
+    "key": "h",
+    "code": "KeyH",
+    "keyCode": 72,
+    "which": 72
+  },
+  {
+    "touche": "j",
+    "key": "j",
+    "code": "KeyJ",
+    "keyCode": 74,
+    "which": 74
+  },
+  {
+    "touche": "k",
+    "key": "k",
+    "code": "KeyK",
+    "keyCode": 75,
+    "which": 75
+  },
+  {
+    "touche": "l",
+    "key": "l",
+    "code": "KeyL",
+    "keyCode": 76,
+    "which": 76
+  },
+  {
+    "touche": "m",
+    "key": "m",
+    "code": "Semicolon",
+    "keyCode": 77,
+    "which": 77
+  },
+  {
+    "touche": "ù",
+    "key": "ù",
+    "code": "Quote",
+    "keyCode": 192,
+    "which": 192
+  },
+  {
+    "touche": "*",
+    "key": "*",
+    "code": "Backslash",
+    "keyCode": 220,
+    "which": 220
+  },
+  {
+    "touche": "maj gauche",
+    "key": "Shift",
+    "code": "ShiftLeft",
+    "keyCode": 16,
+    "which": 16
+  },
+  {
+    "touche": "<",
+    "key": "<",
+    "code": "IntlBackslash",
+    "keyCode": 226,
+    "which": 226
+  },
+  {
+    "touche": "w",
+    "key": "w",
+    "code": "KeyZ",
+    "keyCode": 87,
+    "which": 87
+  },
+  {
+    "touche": "x",
+    "key": "x",
+    "code": "KeyX",
+    "keyCode": 88,
+    "which": 88
+  },
+  {
+    "touche": "c",
+    "key": "c",
+    "code": "KeyC",
+    "keyCode": 67,
+    "which": 67
+  },
+  {
+    "touche": "v",
+    "key": "v",
+    "code": "KeyV",
+    "keyCode": 86,
+    "which": 86
+  },
+  {
+    "touche": "b",
+    "key": "b",
+    "code": "KeyB",
+    "keyCode": 66,
+    "which": 66
+  },
+  {
+    "touche": "n",
+    "key": "n",
+    "code": "KeyN",
+    "keyCode": 78,
+    "which": 78
+  },
+  {
+    "touche": ",",
+    "key": ",",
+    "code": "KeyM",
+    "keyCode": 188,
+    "which": 188
+  },
+  {
+    "touche": ";",
+    "key": ";",
+    "code": "Comma",
+    "keyCode": 190,
+    "which": 190
+  },
+  {
+    "touche": ":",
+    "key": ":",
+    "code": "Period",
+    "keyCode": 191,
+    "which": 191
+  },
+  {
+    "touche": "!",
+    "key": "!",
+    "code": "Slash",
+    "keyCode": 223,
+    "which": 223
+  },
+  {
+    "touche": "maj droite",
+    "key": "Shift",
+    "code": "ShiftRight",
+    "keyCode": 16,
+    "which": 16
+  },
+  {
+    "touche": "ctrl gauche",
+    "key": "Control",
+    "code": "ControlLeft",
+    "keyCode": 17,
+    "which": 17
+  },
+  {
+    "touche": "windows",
+    "key": "Meta",
+    "code": "MetaLeft",
+    "keyCode": 91,
+    "which": 91
+  },
+  {
+    "touche": "alt",
+    "key": "Alt",
+    "code": "AltLeft",
+    "keyCode": 18,
+    "which": 18
+  },
+  {
+    "touche": "espace",
+    "key": " ",
+    "code": "Space",
+    "keyCode": 32,
+    "which": 32
+  },
+  {
+    "touche": "alt gr",
+    "key": "Control",
+    "code": "ControlLeft",
+    "keyCode": 17,
+    "which": 17
+  },
+  {
+    "touche": "alt gr",
+    "key": "AltGraph",
+    "code": "AltRight",
+    "keyCode": 18,
+    "which": 18
+  },
+  {
+    "touche": "ctrl droite",
+    "key": "Control",
+    "code": "ControlRight",
+    "keyCode": 17,
+    "which": 17
+  },
+  {
+    "touche": "insert",
+    "key": "Insert",
+    "code": "Insert",
+    "keyCode": 45,
+    "which": 45
+  },
+  {
+    "touche": "début",
+    "key": "Home",
+    "code": "Home",
+    "keyCode": 36,
+    "which": 36
+  },
+  {
+    "touche": "page up",
+    "key": "PageUp",
+    "code": "PageUp",
+    "keyCode": 33,
+    "which": 33
+  },
+  {
+    "touche": "suppr",
+    "key": "Delete",
+    "code": "Delete",
+    "keyCode": 46,
+    "which": 46
+  },
+  {
+    "touche": "fin",
+    "key": "End",
+    "code": "End",
+    "keyCode": 35,
+    "which": 35
+  },
+  {
+    "touche": "page down",
+    "key": "PageDown",
+    "code": "PageDown",
+    "keyCode": 34,
+    "which": 34
+  },
+  {
+    "touche": "gauche",
+    "key": "ArrowLeft",
+    "code": "ArrowLeft",
+    "keyCode": 37,
+    "which": 37
+  },
+  {
+    "touche": "haut",
+    "key": "ArrowUp",
+    "code": "ArrowUp",
+    "keyCode": 38,
+    "which": 38
+  },
+  {
+    "touche": "droite",
+    "key": "ArrowRight",
+    "code": "ArrowRight",
+    "keyCode": 39,
+    "which": 39
+  },
+  {
+    "touche": "bas",
+    "key": "ArrowDown",
+    "code": "ArrowDown",
+    "keyCode": 40,
+    "which": 40
+  },
+  {
+    "touche": "verr num off",
+    "key": "NumLock",
+    "code": "NumLock",
+    "keyCode": 144,
+    "which": 144
+  },
+  {
+    "touche": "verr num on",
+    "key": "NumLock",
+    "code": "NumLock",
+    "keyCode": 144,
+    "which": 144
+  },
+  {
+    "touche": "/",
+    "key": "/",
+    "code": "NumpadDivide",
+    "keyCode": 111,
+    "which": 111
+  },
+  {
+    "touche": "*",
+    "key": "*",
+    "code": "NumpadMultiply",
+    "keyCode": 106,
+    "which": 106
+  },
+  {
+    "touche": "-",
+    "key": "-",
+    "code": "NumpadSubtract",
+    "keyCode": 109,
+    "which": 109
+  },
+  {
+    "touche": "7",
+    "key": "7",
+    "code": "Numpad7",
+    "keyCode": 103,
+    "which": 103
+  },
+  {
+    "touche": "8",
+    "key": "8",
+    "code": "Numpad8",
+    "keyCode": 104,
+    "which": 104
+  },
+  {
+    "touche": "9",
+    "key": "9",
+    "code": "Numpad9",
+    "keyCode": 105,
+    "which": 105
+  },
+  {
+    "touche": "+",
+    "key": "+",
+    "code": "NumpadAdd",
+    "keyCode": 107,
+    "which": 107
+  },
+  {
+    "touche": "4",
+    "key": "4",
+    "code": "Numpad4",
+    "keyCode": 100,
+    "which": 100
+  },
+  {
+    "touche": "5",
+    "key": "5",
+    "code": "Numpad5",
+    "keyCode": 101,
+    "which": 101
+  },
+  {
+    "touche": "6",
+    "key": "6",
+    "code": "Numpad6",
+    "keyCode": 102,
+    "which": 102
+  },
+  {
+    "touche": "1",
+    "key": "1",
+    "code": "Numpad1",
+    "keyCode": 97,
+    "which": 97
+  },
+  {
+    "touche": "2",
+    "key": "2",
+    "code": "Numpad2",
+    "keyCode": 98,
+    "which": 98
+  },
+  {
+    "touche": "3",
+    "key": "3",
+    "code": "Numpad3",
+    "keyCode": 99,
+    "which": 99
+  },
+  {
+    "touche": "entrée",
+    "key": "Enter",
+    "code": "NumpadEnter",
+    "keyCode": 13,
+    "which": 13
+  },
+  {
+    "touche": "0",
+    "key": "0",
+    "code": "Numpad0",
+    "keyCode": 96,
+    "which": 96
+  },
+  {
+    "touche": ".",
+    "key": ".",
+    "code": "NumpadDecimal",
+    "keyCode": 110,
+    "which": 110
+  }
+]
